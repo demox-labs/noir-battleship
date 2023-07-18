@@ -1,0 +1,5 @@
+[package]
+authors = ["evan@demoxlabs.xyz", "mike@demoxlabs.xyz"]
+compiler_version = "0.7.1"
+
+[dependencies]
